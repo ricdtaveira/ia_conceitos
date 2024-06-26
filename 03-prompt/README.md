@@ -27,6 +27,47 @@ Princípios gerais incluem ser específico, contextual e claro ao formular promp
 [O artigo da Alura](https://www.alura.com.br/artigos/engenharia-prompt) oferece mais 
 detalhes sobre o tema¹.
 >
+## Técnicas para Prompts Assertivos 
+>
+Elaborar prompts assertivos é fundamental para obter respostas precisas e úteis do ChatGPT. 
+Aqui estão algumas técnicas eficazes:
+>
+>
+**Seja Claro e Específico:** 
+Evite ambiguidades e forneça instruções claras. Por exemplo, em vez de “Fale sobre inteligência 
+artificial”, prefira "Explique como a inteligência artificial é usada na medicina para diagnósticos"1.
+>
+>
+**Forneça Contexto Adequado:**
+ Incluir detalhes extras ajuda o modelo a entender melhor o que você espera na resposta. 
+ Por exemplo, em vez de “Quais são as vantagens?”, especifique "Quais são as vantagens do uso de blockchain na gestão de cadeias de suprimentos?"1.
+Utilize 
+>
+>
+**Perguntas Diretas:** Perguntas diretas são mais fáceis de interpretar e geram respostas 
+objetivas. Por exemplo, em vez de “Você pode me contar sobre os benefícios de exercícios?”, 
+prefira "Quais são os benefícios dos exercícios físicos para a saúde cardiovascular?"1.
+
+>
+**Especifique o Formato da Resposta:** 
+>
+Indique o formato desejado para moldar a saída do modelo. Por exemplo, 
+"Explique o processo em etapas numeradas"1.
+>
+>
+**Limite a Abrangência:** Evite prompts muito amplos para obter respostas concisas e relevantes.
+Por exemplo, em vez de “Fale sobre a história da internet”, prefira "Fale sobre os principais 
+marcos da história da internet nos últimos 20 anos"1.
+>
+>
+**Use Exemplos:** Fornecer exemplos ajuda o modelo a entender o tipo de resposta desejada. 
+Por exemplo, "Descreva um cenário de uso da IA em atendimento ao cliente, como em chatbots"1.
+>
+>
+Lembre-se também de evitar ambiguidades e não presumir conhecimento prévio1. 
+>
+
+
 >
 ## Referencias 
 >
