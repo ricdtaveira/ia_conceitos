@@ -29,11 +29,19 @@ automático, correção ortográfica ou chatbots.
 >
 >
 Principais implementações de Small LLMs incluem:
-
+>
 **DistilBERT:** Uma versão compacta do BERT.
+>
+>
 **TinyBERT:** Uma adaptação menor do BERT.
+>
+>
 **MobileBERT:** Projetado para dispositivos móveis.
+>
+>
 **ALBERT:** Uma alternativa eficiente ao BERT.
+>
+>
 **GPT-2 Small:** Uma versão menor do GPT-2.
 >
 >
