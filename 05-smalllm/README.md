@@ -45,6 +45,6 @@ Principais implementações de Small LLMs incluem:
 **GPT-2 Small:** Uma versão menor do GPT-2.
 >
 >
-Esses modelos oferecem um equilíbrio entre desempenho e eficiência, tornando-os 
-úteis em várias aplicações. 
+Esses modelos oferecem um equilíbrio entre desempenho e eficiência, 
+tornando-os úteis em várias aplicações. 
 >
