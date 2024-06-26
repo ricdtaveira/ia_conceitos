@@ -85,3 +85,9 @@ Lembre-se também de evitar ambiguidades e não presumir conhecimento prévio1.
 >
 (5) O que é engenharia de prompts? | IBM. https://www.ibm.com/br-pt/topics/prompt-engineering.
 >
+>
+(6) Engenharia de Prompt para não-técnicos: um guia prático. | https://www.startse.com/artigos/engenharia-de-prompt-para-nao-tecnicos-um-guia-pratico/
+>
+>
+(7) Elaboração de prompts assertivos para ChatGPT | https://www.dio.me/articles/elaboracao-de-prompts-assertivos-para-chatgpt 
+>
