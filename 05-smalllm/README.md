@@ -6,7 +6,7 @@ na linguagem.
 >
 > 
 Eles são capazes de entender e gerar texto de forma semelhante a um ser humano, 
-capturando nuances sutis de gramática, semântica e contexto1. 
+capturando nuances sutis de gramática, semântica e contexto. 
 >
 > 
 Aqui estão algumas características dos Small LLMs:
@@ -16,7 +16,7 @@ Aqui estão algumas características dos Small LLMs:
 os torna mais leves e ágeis.
 >
 >
-Menor Capacidade de Geração: Devido ao tamanho reduzido, eles podem não ser tão expressivos 
+**Menor Capacidade de Geração:** Devido ao tamanho reduzido, eles podem não ser tão expressivos 
 quanto os modelos maiores, mas ainda produzem resultados úteis.
 >
 >
