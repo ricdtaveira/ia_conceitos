@@ -12,5 +12,5 @@ Repositório de Conceitos inerentes a IA Generativa
 | 05     | [Small LLM](https://github.com/ricdtaveira/ia_conceitos/tree/main/05-smalllm)|
 | 06     | [Llama3](https://github.com/ricdtaveira/ia_conceitos/blob/main/06-Llama3/README.md)|
 | 07     | [Langchain](https://github.com/ricdtaveira/ia_conceitos/blob/main/07-Langchain/README.md)|                                   
-| 08     | [Botpress](                 |                                   
+| 08     | [Botpress](https://github.com/ricdtaveira/ia_conceitos/tree/main/08-botpress)|                 |                                   
 
