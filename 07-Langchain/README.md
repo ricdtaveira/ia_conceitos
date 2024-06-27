@@ -14,7 +14,7 @@ Verifique a documentação oficial para obter instruções detalhadas.
 **Entenda os Conceitos Básicos:**
 Familiarize-se com os conceitos centrais do LangChain, como componentes, correntes, 
 modelos de prompt e seletores de exemplo.
-Compreenda como esses elementos se relacionam para criar aplicativos de modelo de linguagem1.
+Compreenda como esses elementos se relacionam para criar aplicativos de modelo de linguagem.
 >
 >
 **Crie um Projeto de Exemplo:**
@@ -31,7 +31,7 @@ Explore exemplos de uso em tutoriais e documentação.
 >
 **Participe da Comunidade:**
 Junte-se a fóruns, grupos e comunidades relacionadas ao LangChain.
-Compartilhe suas experiências, tire dúvidas e aprenda com outros desenvolvedores1.
+Compartilhe suas experiências, tire dúvidas e aprenda com outros desenvolvedores.
 >
 >
 Lembre-se de que o LangChain é uma ferramenta poderosa, mas requer prática e 
