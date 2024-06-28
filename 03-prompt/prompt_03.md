@@ -9,7 +9,7 @@ adequada.
 **Exemplo:** 
 >
 > ``Traduza as seguintes frases para o inglês:
-1. ''Bom dia'' -> ''Good morning''
-2. ''Boa noite'' -> ''Good night''
-3. ''Obrigado'' ->``
+``1. 'Bom dia' -> 'Good morning'``
+``2. 'Boa noite' -> 'Good night'``
+``3. 'Obrigado' ->``
 
