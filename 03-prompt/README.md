@@ -67,6 +67,9 @@ Por exemplo, "Descreva um cenário de uso da IA em atendimento ao cliente, como 
 Lembre-se também de evitar ambiguidades e não presumir conhecimento prévio1. 
 >
 
+## Modelos de Prompt
+
+
 
 >
 ## Referencias 
