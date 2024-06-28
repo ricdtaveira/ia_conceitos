@@ -69,6 +69,16 @@ Lembre-se também de evitar ambiguidades e não presumir conhecimento prévio1.
 
 ## Modelos de Prompt
 
+| Tópico | Descrição                |
+|:------:|--------------------------|
+| 01     | [Zero Shot](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_01.md)|
+| 02     | [Directional Prompting](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_02.md)|
+| 03     | [Few Shot](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_03.md)|     |                                       |
+| 04     | [Chain of Thought](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_04.md)|                                       |
+| 05     | [Constrative Chain of Thought](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_05.md)|
+| 06     | [Zero Shot Chain of Thougth](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_06.md)|
+| 07     | [Self-Consistency](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_07.md)|                                   
+| 08     | [Botpress](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_08.md)|                 |                                   
 
 
 >
