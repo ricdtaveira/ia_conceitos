@@ -78,7 +78,12 @@ Lembre-se também de evitar ambiguidades e não presumir conhecimento prévio1.
 | 05     | [Constrative Chain of Thought](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_05.md)|
 | 06     | [Zero Shot Chain of Thougth](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_06.md)|
 | 07     | [Self-Consistency](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_07.md)|                                   
-| 08     | [Botpress](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_08.md)|                 |                                   
+| 08     | [Tree of Thought](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_08.md)|     
+| 09     | [Skeleton of Thought](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_09.md)|                 
+| 10     | [Knowledge Generation](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_10.md)|                 
+| 11     | [Prompt Maiuêutico](https://github.com/ricdtaveira/ia_conceitos/blob/main/03-prompt/prompt_11.md)| 
+
+
 
 
 >
