@@ -1,4 +1,4 @@
-# GenAI (Inteligencia Artificial Generativa)
+# GenAI (Inteligência Artificial Generativa)
 
 >
 IA Generativa (Inteligência Artificial Generativa) refere-se a sistemas de inteligência artificial que podem gerar conteúdo novo e original a partir de dados de entrada. Esses sistemas usam algoritmos de aprendizado de máquina, especialmente redes neurais profundas, para criar textos, imagens, músicas, vídeos e outras formas de conteúdo de maneira autônoma.
